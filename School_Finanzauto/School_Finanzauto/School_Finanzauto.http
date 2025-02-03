@@ -1,0 +1,6 @@
+@School_Finanzauto_HostAddress = http://localhost:5073
+
+GET {{School_Finanzauto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
